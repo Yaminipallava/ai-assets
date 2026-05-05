@@ -6,3 +6,6 @@ Use these files when the generic docs are not enough because Nunneri has:
 - specific Jira issue-key conventions
 - specific Confluence architecture pages
 - product-specific domain and signup rules
+
+Recommended bootstrap entrypoint:
+- `nunneri-agent-bootstrap.md`

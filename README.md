@@ -8,6 +8,7 @@ This repo is intentionally:
 - reusable across projects
 
 Start here:
+- `SESSION-BOOTSTRAP.md`: how to compose provider, shared-core, project, and repo-local instructions for a live agent session
 - `agents/`: operating rules for agents
 - `commands/`: reusable command patterns
 - `workflows/`: end-to-end execution playbooks
