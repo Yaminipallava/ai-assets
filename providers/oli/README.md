@@ -7,6 +7,9 @@ Current state:
 - not implemented
 - no executable integration assets yet
 
+Bootstrap entrypoint:
+- `session-bootstrap.md`
+
 Use this folder later for:
 - API-token auth guidance
 - provider capability notes

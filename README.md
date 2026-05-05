@@ -10,6 +10,7 @@ This repo is intentionally:
 Start here:
 - `SESSION-BOOTSTRAP.md`: how to compose provider, shared-core, project, and repo-local instructions for a live agent session
 - `providers/codex/session-bootstrap.md`: direct Codex session startup guide
+- `workflows/new-employee-setup.md`: generic cross-project employee onboarding guide
 - `agents/`: operating rules for agents
 - `commands/`: reusable command patterns
 - `workflows/`: end-to-end execution playbooks

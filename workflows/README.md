@@ -8,3 +8,4 @@ Start with:
 - `story-intake.md`
 - `implementation-flow.md`
 - `pr-and-merge-flow.md`
+- `new-employee-setup.md` for generic onboarding
