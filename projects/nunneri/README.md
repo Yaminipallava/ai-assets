@@ -9,3 +9,7 @@ Use these files when the generic docs are not enough because Nunneri has:
 
 Recommended bootstrap entrypoint:
 - `nunneri-agent-bootstrap.md`
+
+Onboarding docs:
+- `new-employee-setup.md`
+- `confluence-new-employee-setup-page.md`
